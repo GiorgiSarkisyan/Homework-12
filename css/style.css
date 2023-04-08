@@ -453,3 +453,204 @@ display: flex;
     border-radius: 2px;
     background-color: inherit;
 }
+/* fifth section */
+.section-how-we-work{
+    background: black;
+    height: 2000px;
+}
+.how-we-work-titles{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+.how-we-work-secondary-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+.how-we-work-main-title{
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.how-we-work-header-boxes{
+    display: flex;
+}
+.how-we-work-box{
+    background: white;
+    width: 300px;
+    height: 340px;
+}
+.how-we-work-box-unusual{
+    background:#9EAD8D;
+    width: 302px;
+    height: 360px;
+}
+.how-we-work-box-number, .how-we-work-box-number-unusual{ 
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.how-we-work-box-title, .how-we-work-box-title-unusual{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 110px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 10px;
+}
+.how-we-work-box-paragraph, .how-we-work-box-paragraph-unusual{
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.how-we-work-main-section-titles{
+    color: white;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.how-we-work-main-section-secondary-title{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.how-we-work-main-section-main-title{
+    font-family: Ultra;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 500px;
+}
+.how-we-work-main-section-main-box{
+    width: 570px;
+    height: 736px;
+    background-color: white;
+}
+.how-we-work-main-section-main-box-showcase{
+    background: #9B9B9B;
+    width: 570px;
+    height: 496px;
+}
+.how-we-work-main-section-main-box-secondary-title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.how-we-work-main-section-main-box-main-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+.how-we-work-main-section-main-box-info{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.how-we-work-main-section-main-box-paragraph{
+    width: 322px;
+    height: 68px;
+    font-size: 20px;
+}
+.how-we-work-section-main-box-time{
+    width:200px;
+    text-align: right;
+    margin-top: 15px;
+    font-size: 30px;
+}
+.how-we-work-main-section-box{
+    width: 270px;
+    height: 352px;
+    background-color: white;
+}
+.how-we-work-main-section-box-showcase{
+    width: 270px;
+    height: 208px;
+    background: #9B9B9B;
+}
+.how-we-work-main-section-box-title-time{
+    display: flex;
+}
+.how-we-work-main-section-box-title{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.how-we-work-main-section-box-time{
+    margin-top: 12px;
+    width: 160px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.how-we-work-main-section-box-paragraph{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.how-we-work-main-section-boxes-flex{
+    display: flex;
+    margin-top: 100px;
+}
+.how-we-work-main-section-boxes{
+    height: 700px;
+    display: flex;
+}
+.how-we-work-main-section-box{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.how-we-work-button{
+    margin-top: 100px;
+    width: 1200px;
+    justify-content: center;
+    text-align: center;
+}
+.how-we-work-button button{
+    width: 170px;
+    height: 50px;
+    background: black;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.295743);
+    border-radius: 2px;
+}
+
