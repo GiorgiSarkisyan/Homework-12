@@ -1,0 +1,227 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.hero-section-info{
+    color: white;
+}
+li{
+    display: inline;
+    word-spacing: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color:inherit
+}
+.middle-content{
+    justify-content: center;
+    max-width: 1200px;
+    max-height: 1500px;
+    margin: 0 auto;
+}
+/* ბოდის სტილები */
+.hero-section{
+    background-color: black;
+    height: 700px;
+}
+.body-wrapper{
+    max-width: 1440px;
+    margin: 0 auto;
+    box-shadow: 0 24px 48px rgb(141, 140, 140);
+    height: 2200px;
+}
+/* ჰიროუ სტილები (ჰედერი) */
+.hero-header{
+    display: flex;
+}
+.hero-header-logo{
+    margin-left: 120px;
+    margin-top: 5px;
+    color: white;
+}
+.hero-header-nav{
+    margin-left: 60px;
+    width: 300px;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+.hero-header-right-side{
+    margin-left: 700px;
+    margin-top: 15px;
+}
+.button-right-side{
+    border: 1px solid rgba(255, 255, 255, 0.295743);
+    border-radius: 2px;
+    width: 100px;
+    height: 48px;
+    background: black;
+    color: white;
+}
+/* ჰიროუს ინფოს სექცია */
+.hero-section-info{
+    margin-left: 120px;  
+    margin-top: 150px;
+}
+.hero-section-info-title-1984{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400px  ;
+    font-size: 10px;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.hero-section-info-title-main{
+    font-family:Helvetica ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 80px;
+    width: 500px;
+    height: 270px;
+}
+.hero-section-info-paragraph{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    width: 500px;
+}
+/* ქვევითა ბათონი */
+.next-section-button{
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+    background: black;
+    color: white;
+    border: 1px solid orange
+}
+.hero-section-next-section-button{
+    position:absolute;
+    left: 925px;
+    bottom: 250px;
+}
+/* სექციის სურათი */
+.hero-section-profile{
+    position: absolute;
+    left: 1200px;
+    top: 200px;
+}
+.bakery-special-moments-section{
+    background-color:#F5D3AB;
+    height: 1400px;
+}
+.bakery-square-svg{
+    width: 600px;
+    height: 700px;
+}
+.bakery-about-us{
+    width: 600px;
+    height: 700px;
+}
+.bakery-special-moments-main-content{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bakery-square-svg{
+    margin-top: 100px;
+}
+.bakery-about-us{
+    margin-top: 100px;
+}
+.about-us-title{
+    font-size: 16px;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+}
+.about-us-title-main{
+    font-size: 60px;
+    font-weight: 400px;
+    line-height: 64px;
+}
+.bakery-about-paragraph-section{
+margin-left: 100px;
+margin-top: 40px;
+}
+.bakery-about-paragraph-01-title{
+    margin-bottom: 20px;
+}
+.bakery-about-paragraph-LastViewBack-title{
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.bakery-about-paragraph{
+    width: 370px;
+    height: 93px;
+    font-size: 16px;
+}
+.bottom-title{
+    margin-bottom: 30px;
+}
+.bakery-special-moments-footer-titles{
+    justify-content: center;
+    text-align: center;
+}
+.bakery-special-moments-footer-secondary-title{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bakery-special-moments-footer-main-title{
+    font-family: Ultra;
+    font-size: 56px;
+    font-weight: 400px;
+    line-height: 64px;
+    letter-spacing: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* boxes */
+.bakery-special-moments-footer-boxes{
+    display: flex;
+    margin-top: 40px;
+}
+.box{
+    background-color: white;
+    width: 370px;
+    height: 384px;
+}
+.box-logo{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.box-title{
+    font-size: 40px;
+    font-weight: 400px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box-paragraph{
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 32px;
+    width: 250px;
+    height: 69px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.baking-special-moments-footer{
+    background-color:#F5D3AB;
+}
+.third-box{
+    background-color: #9EAD8D;
+    width:400px;
+    height:416px;
+}
