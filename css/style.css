@@ -268,3 +268,187 @@ margin-top: 40px;
     width: 473px;
     height: 128px;
 }
+/* Fourth section */
+.section-baked-fresh-every-morning{
+    background-color: #F5D3AB;
+    height: 1450px;
+}
+.morning-titles{
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+.morning-secondary-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: left;
+    padding-top: 100px;
+}
+.morning-main-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 56px;
+    font-weight: 1000;
+    line-height: 64px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 520px;
+    height: 128px;
+}
+.morning-menu-bread{
+    display: flex;
+    width: 1200px;
+    height: 448px;
+    margin-left: 20px;;
+}
+.main-menu-box{
+    width: 760px;
+    height: 448px;
+    background-color: #9B9B9B;
+}
+.main-menu-box-secondary-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: left;
+    color: white;
+}
+.main-menu-box-main-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 48px;
+    width: 300px;
+    height: 96px;
+    color: white;
+    margin-top: 20px;
+}
+.main-menu-box-titles{
+    margin-top: 170px;
+    margin-left: 40px;
+}
+.main-menu-box-paragraph{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;  
+    margin-left: 40px;
+    margin-top: 30px;
+    width:322px;
+    height: 68px;
+    color: white;
+}
+.main-menu-box-info{
+    display: flex;
+    color: white;
+}
+.main-menu-box-price{
+    width: 360px;
+    text-align: right;
+    margin-top: 35px;
+    font-size: 30px;
+}
+.morning-menu-second-box{
+    width: 370px;
+    height: 448px;
+    background-color: white;
+    margin-left: 20px;
+}
+.morning-menu-second-box-showcase{
+    background: #BBBBBB;
+    width: 370px;
+    height: 320px;
+}
+.morning-menu-second-box-secondary-title {
+    font-family: Oswald;
+    font-size: 23px;
+    font-weight: 1000;
+    line-height: 32px;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.morning-menu-second-box-main-title{
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.morning-menu-secondary-box-info{
+    display: flex;
+}
+.morning-menu-secondary-box-price{
+    width: 220px;
+    text-align: right;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.morning-menu-deserts{
+    display:flex;
+    margin-top: 20px;
+    width: 1300px;
+    margin-right: 20px;
+}
+.morning-menu-desert-box{
+    width: 370px;
+    height: 448px;
+    background-color: white;
+    margin-left: 20px;
+}
+.morning-menu-desert-box-showcase{
+    background: #BBBBBB;
+    width: 370px;
+    height: 320px;
+}
+.morning-menu-desert-box-secondary-title{
+    font-family: Oswald;
+    font-size: 23px;
+    font-weight: 1000;
+    line-height: 32px;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.morning-menu-desert-box-info{
+display: flex;
+}
+.morning-menu-desert-box-main-title{
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.morning-menu-desert-box-price{
+    width: 220px;
+    text-align: right;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+}
+.morning-menu-button{
+    margin-top: 100px;
+    width: 1200px;
+    text-align: center;
+    width: ;
+}
+.morning-menu-button button{
+    width: 170px;
+    height: 48px;
+    border: 1px solid rgba(23, 27, 27, 0.240602);
+    border-radius: 2px;
+    background-color: inherit;
+}
