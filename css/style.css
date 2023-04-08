@@ -229,6 +229,7 @@ margin-top: 40px;
 .section-story-video{
     height: 480px;
     background-color: black;
+    box-shadow: 0 24px 48px rgb(141, 140, 140);
 }
 .story-video-content{
     color: white;
@@ -272,6 +273,7 @@ margin-top: 40px;
 .section-baked-fresh-every-morning{
     background-color: #F5D3AB;
     height: 1450px;
+    box-shadow: 0 24px 48px rgb(141, 140, 140);
 }
 .morning-titles{
     margin-bottom: 100px;
@@ -443,7 +445,6 @@ display: flex;
     margin-top: 100px;
     width: 1200px;
     text-align: center;
-    width: ;
 }
 .morning-menu-button button{
     width: 170px;
