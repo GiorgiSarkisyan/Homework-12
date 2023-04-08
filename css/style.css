@@ -225,3 +225,46 @@ margin-top: 40px;
     width:400px;
     height:416px;
 }
+/* third section */
+.section-story-video{
+    height: 480px;
+    background-color: black;
+}
+.story-video-content{
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+.story-video-button button{
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    color: orange;
+}
+.story-video-button{
+    width: 600px;
+    margin-top: 170px;
+    margin-left: 200px;
+}
+.story-video-titles{
+    width: 600px;
+    margin-top: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.story-video-secondary-title{
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.story-video-main-title{
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 56px;
+    line-height: 64px;
+    width: 473px;
+    height: 128px;
+}
